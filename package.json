@@ -1,6 +1,6 @@
 {
   "name": "slugz",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Turn a string into a url-safe slug.",
   "main": "index.js",
   "scripts": {
