@@ -1,0 +1,24 @@
+{
+  "name": "slugz",
+  "version": "0.0.0",
+  "description": "Turn a string into a url-safe slug.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Prestaul/slugz.git"
+  },
+  "keywords": [
+    "slug",
+    "handle",
+    "alias"
+  ],
+  "author": "Matt Dunlap <mpdunlap@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.12.0",
+    "chai": "~1.7.2"
+  }
+}
